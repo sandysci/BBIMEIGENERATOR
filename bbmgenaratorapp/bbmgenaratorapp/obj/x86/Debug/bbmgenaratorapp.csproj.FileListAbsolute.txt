@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\bin\Debug\bbmgenaratorapp.exe
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\bin\Debug\bbmgenaratorapp.pdb
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\obj\x86\Debug\bbmgenaratorapp.Formbb.resources
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\obj\x86\Debug\bbmgenaratorapp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\obj\x86\Debug\bbmgenaratorapp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\obj\x86\Debug\bbmgenaratorapp.exe
+c:\users\user\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\obj\x86\Debug\bbmgenaratorapp.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\bbmgenaratorapp\bbmgenaratorapp\obj\x86\Debug\bbmgenaratorapp.csprojResolveAssemblyReference.cache
